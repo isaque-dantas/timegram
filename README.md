@@ -1,8 +1,8 @@
 # Timegram 
 
-Agende 'timegrams' para seus amigos e receba os que eles enviarem.  
+*Sistema web experimental com Python Flask.*
 
-⭐ Acesse agora: [https://timegram.com](https://timegram.com)  
+Agende **'timegrams'** para seus amigos e receba os que eles enviarem.
 
 ## Tecnologias utilizadas
 
